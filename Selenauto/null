@@ -1,0 +1,22 @@
+1578150280946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P0BF7~1.THI\\AppData\\Local\\Temp\\rust_mozprofile771O48"
+Extension error: Error while loading 'jar:file:///C:/Users/P.Thirupathi%20Reddy/AppData/Local/Mozilla%20Firefox/browser/features/formautofill@mozilla.org.xpi!/manifest.json' (NS_ERROR_FILE_NOT_FOUND) resource://gre/modules/Extension.jsm:531 :: readJSON/</<@resource://gre/modules/Extension.jsm:531:20
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+
+1578150282761	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: Error: Error while loading 'jar:file:///C:/Users/P.Thirupathi%20Reddy/AppData/Local/Mozilla%20Firefox/browser/features/formautofill@mozilla.org.xpi!/manifest.json' (NS_ERROR_FILE_NOT_FOUND)(resource://gre/modules/Extension.jsm:531:20) JS Stack trace: readJSON/</<@Extension.jsm:531:20
+onStopRequest@NetUtil.jsm:128:18
+Extension error: Error while loading 'jar:file:///C:/Users/P.Thirupathi%20Reddy/AppData/Local/Mozilla%20Firefox/browser/features/screenshots@mozilla.org.xpi!/manifest.json' (NS_ERROR_FILE_NOT_FOUND) resource://gre/modules/Extension.jsm:531 :: readJSON/</<@resource://gre/modules/Extension.jsm:531:20
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+
+1578150282762	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: Error: Error while loading 'jar:file:///C:/Users/P.Thirupathi%20Reddy/AppData/Local/Mozilla%20Firefox/browser/features/screenshots@mozilla.org.xpi!/manifest.json' (NS_ERROR_FILE_NOT_FOUND)(resource://gre/modules/Extension.jsm:531:20) JS Stack trace: readJSON/</<@Extension.jsm:531:20
+onStopRequest@NetUtil.jsm:128:18
+Extension error: Error while loading 'jar:file:///C:/Users/P.Thirupathi%20Reddy/AppData/Local/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/manifest.json' (NS_ERROR_FILE_NOT_FOUND) resource://gre/modules/Extension.jsm:531 :: readJSON/</<@resource://gre/modules/Extension.jsm:531:20
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+
+1578150282763	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: Error: Error while loading 'jar:file:///C:/Users/P.Thirupathi%20Reddy/AppData/Local/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/manifest.json' (NS_ERROR_FILE_NOT_FOUND)(resource://gre/modules/Extension.jsm:531:20) JS Stack trace: readJSON/</<@Extension.jsm:531:20
+onStopRequest@NetUtil.jsm:128:18
+1578150284183	Marionette	INFO	Listening on port 52936
+[Parent 18240, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17844, Chrome_Chil1578150284599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.icicibank.com/assets/js/lib/nli-index-library.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.icicibank.com/assets/js/main.js, line 32: ReferenceError: Notification is not defined
