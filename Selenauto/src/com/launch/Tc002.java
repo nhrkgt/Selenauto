@@ -12,6 +12,7 @@ public class Tc002 extends BaseTest
 		launch("firefoxbrowser");
 		
 		navigateUrl("iciciurl");
+		
 
 			
 		
