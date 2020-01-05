@@ -14,6 +14,10 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.firefox.ProfilesIni;
 
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+
+
 public class BaseTest 
 {
 
@@ -21,7 +25,8 @@ public class BaseTest
 	public static Properties p;
 	public static Properties or;
 	public static String projectpath=System.getProperty("user.dir");
-	
+	public static ExtentReports report=Extentclass.getInstance();;
+	public static ExtentTest test;
 	
 	public static void init() throws Exception
 	{
@@ -36,6 +41,7 @@ public class BaseTest
 	
 	PropertyConfigurator.configure(projectpath+"//lo4j.properties");
 	
+		
 	
 	}
 	
