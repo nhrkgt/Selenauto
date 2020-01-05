@@ -11,5 +11,6 @@
 	<classpathentry kind="lib" path="C:/Users/P.Thirupathi Reddy/Desktop/Jars/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/P.Thirupathi Reddy/Desktop/Jars/extentreports-2.41.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/P.Thirupathi Reddy/Desktop/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P.Thirupathi Reddy/Desktop/Jars/testng-6.14.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
