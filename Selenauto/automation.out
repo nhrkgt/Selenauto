@@ -1,0 +1,12 @@
+initializing the properties files..
+Launched the browser :chrome
+Navigate to url :https://www.amazon.in
+selected the option:Booksby using the locator:searchDropdownBox
+entered the value:Harry potterby using the locator: twotabsearchtextbox
+clicked on button by using the locator://div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+initializing the properties files..
+Launched the browser :chrome
+Navigate to url :https://www.amazon.in
+selected the option:Booksby using the locator:searchDropdownBox
+entered the value:Harry potterby using the locator: twotabsearchtextbox
+clicked on button by using the locator://div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
